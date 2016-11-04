@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.Set;
 
 public class NahodnaCisla {
-    int velikostPole = 10;
+    int velikostPole = 20;
     Random random = new Random ();
     int generace = 0;
     
